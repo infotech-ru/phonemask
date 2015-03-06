@@ -1,0 +1,36 @@
+{
+	"name": "phonemask-multi",
+	"version": "1.0.2",
+	"title": "phonemask Multi",
+	"author": {
+		"name": "Andrey Egorov",
+		"url": "https://github.com/andr-04"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.5",
+		"jquery.phonemask": "=1.2.2",
+		"bind-first": ">=0.1.0"
+	},
+	"description": "phonemask Multi is a plugin which allows to select a mask of input basing on the beginning of entered data (such as an international phone number)",
+	"keywords": [
+		"phonemask",
+		"phone",
+		"phonenumber",
+		"list",
+		"multi",
+		"several",
+		"mask",
+		"selection"
+	],
+	"homepage": "https://github.com/andr-04/phonemask-multi",
+	"docs": "https://github.com/andr-04/phonemask-multi#readme",
+	"demo": "http://andr-04.github.com/phonemask-multi/",
+	"bugs": "https://github.com/andr-04/phonemask-multi/issues",
+	"download": "https://github.com/andr-04/phonemask-multi/zipball/master"
+}
