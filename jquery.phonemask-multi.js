@@ -181,6 +181,7 @@
 					var determined = mask.substr(im).search(maskOpts.match) == -1;
 					mask = mask.replace(new RegExp([maskOpts.match.source].concat(keys(defs)).join('|'), 'g'), maskOpts.replace);
 					var completed = mask.substr(im).search(maskOpts.replace) == -1;
+					mask = mask.replace('+#', '+7'); // Hack for russian phones!
 					return {
 						mask: mask,
 						obj: maskOpts.list[mid],
