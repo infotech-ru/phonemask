@@ -21,7 +21,7 @@
                 "jquery.phonemask.js",
                 "phones-ru.json",
                 "phones-us.json"
-            ],
+            ]
         }
     }
 }
