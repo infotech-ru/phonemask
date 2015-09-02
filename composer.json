@@ -1,7 +1,7 @@
 {
     "name": "v-prasolenko/phonemask",
     "type": "component",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "This plugin has developed for jQuery and allows to select a mask of input basing on the beginning of entered phone number",
     "license": "MIT",
     "authors": [
